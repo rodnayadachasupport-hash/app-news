@@ -3,14 +3,14 @@
     "id": "1",
     "title": "Обновление приложения 2.0",
     "description": "Мы переработали интерфейс и добавили тёмную тему.",
-    "imageUrl": "https://raw.githubusercontent.com/твой-юзер/app-news/main/images/news1.png",
+    "imageUrl": "",
     "date": "2026-10-01"
   },
   {
     "id": "2",
     "title": "Новый маршрут 103",
     "description": "Теперь маршрутка ходит каждые 10 минут.",
-    "imageUrl": "https://raw.githubusercontent.com/твой-юзер/app-news/main/images/news2.png",
+    "imageUrl": "https://raw.githubusercontent.com/rodnayadachasupport-hash/app-news/main/images/news2.png",
     "date": "2026-09-28"
   }
 ]
